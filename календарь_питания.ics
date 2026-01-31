@@ -9,12 +9,12 @@ DTSTAMP:20260131T090000
 DTSTART:20260131T090000
 DTEND:20260131T091500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ Завтрак
+SUMMARY:🌅 Завтрак
 DESCRIPTION:Напоминание о приёме пищи — Завтрак
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ Завтрак
+DESCRIPTION:🌅 Завтрак
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -23,12 +23,12 @@ DTSTAMP:20260131T113000
 DTSTART:20260131T113000
 DTEND:20260131T114500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ Перекус
+SUMMARY:🥒 Перекус
 DESCRIPTION:Напоминание о приёме пищи — Перекус
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ Перекус
+DESCRIPTION:🥒 Перекус
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -37,12 +37,12 @@ DTSTAMP:20260131T130000
 DTSTART:20260131T130000
 DTEND:20260131T131500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ Обед
+SUMMARY:🍲 Обед
 DESCRIPTION:Напоминание о приёме пищи — Обед
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ Обед
+DESCRIPTION:🍲 Обед
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -51,12 +51,12 @@ DTSTAMP:20260131T160000
 DTSTART:20260131T160000
 DTEND:20260131T161500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ Полдник
+SUMMARY:🫖 Полдник
 DESCRIPTION:Напоминание о приёме пищи — Полдник
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ Полдник
+DESCRIPTION:🫖 Полдник
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -65,12 +65,12 @@ DTSTAMP:20260131T183000
 DTSTART:20260131T183000
 DTEND:20260131T184500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ Ужин
+SUMMARY:🌇 Ужин
 DESCRIPTION:Напоминание о приёме пищи — Ужин
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ Ужин
+DESCRIPTION:🌇 Ужин
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -79,12 +79,12 @@ DTSTAMP:20260131T213000
 DTSTART:20260131T213000
 DTEND:20260131T214500
 RRULE:FREQ=DAILY
-SUMMARY:🍽️ По желанию: Кефир
+SUMMARY:🥛 По желанию: Кефир
 DESCRIPTION:Напоминание о приёме пищи — По желанию: Кефир
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:🍽️ По желанию: Кефир
+DESCRIPTION:🥛 По желанию: Кефир
 END:VALARM
 END:VEVENT
 END:VCALENDAR
