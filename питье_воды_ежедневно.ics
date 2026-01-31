@@ -2,131 +2,117 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-PRODID:-//Custom Water Planner//EN
+PRODID:-//Hydration Tracker//EN
 BEGIN:VEVENT
-UID:20260131T083000-water-recurring
+UID:20260131T083000-water-Вода_натощак
 DTSTAMP:20260131T083000
 DTSTART:20260131T083000
 DTEND:20260131T084000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1.2 стак. воды — Утро натощак
-DESCRIPTION:Пить воду — Утро натощак
+SUMMARY:💧 Вода натощак
+DESCRIPTION:Напоминание: Вода натощак (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1.2 стак. воды
+DESCRIPTION:💧 Вода натощак
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T093000-water-recurring
-DTSTAMP:20260131T093000
-DTSTART:20260131T093000
-DTEND:20260131T094000
+UID:20260131T085000-water-Вода_перед_завтраком
+DTSTAMP:20260131T085000
+DTSTART:20260131T085000
+DTEND:20260131T090000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — Перед завтраком
-DESCRIPTION:Пить воду — Перед завтраком
+SUMMARY:💧 Вода перед завтраком
+DESCRIPTION:Напоминание: Вода перед завтраком (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода перед завтраком
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T103000-water-recurring
-DTSTAMP:20260131T103000
-DTSTART:20260131T103000
-DTEND:20260131T104000
+UID:20260131T100000-water-Вода_между_завтраком_и_перекусом
+DTSTAMP:20260131T100000
+DTSTART:20260131T100000
+DTEND:20260131T101000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — Между приёмами пищи
-DESCRIPTION:Пить воду — Между приёмами пищи
+SUMMARY:💧 Вода между завтраком и перекусом
+DESCRIPTION:Напоминание: Вода между завтраком и перекусом (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода между завтраком и перекусом
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T120000-water-recurring
-DTSTAMP:20260131T120000
-DTSTART:20260131T120000
-DTEND:20260131T121000
+UID:20260131T123000-water-Вода_перед_обедом
+DTSTAMP:20260131T123000
+DTSTART:20260131T123000
+DTEND:20260131T124000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — Перед обедом
-DESCRIPTION:Пить воду — Перед обедом
+SUMMARY:💧 Вода перед обедом
+DESCRIPTION:Напоминание: Вода перед обедом (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода перед обедом
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T133000-water-recurring
-DTSTAMP:20260131T133000
-DTSTART:20260131T133000
-DTEND:20260131T134000
+UID:20260131T140000-water-Вода_после_обеда
+DTSTAMP:20260131T140000
+DTSTART:20260131T140000
+DTEND:20260131T141000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — После обеда
-DESCRIPTION:Пить воду — После обеда
+SUMMARY:💧 Вода после обеда
+DESCRIPTION:Напоминание: Вода после обеда (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода после обеда
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T150000-water-recurring
-DTSTAMP:20260131T150000
-DTSTART:20260131T150000
-DTEND:20260131T151000
+UID:20260131T153000-water-Вода_перед_полдником
+DTSTAMP:20260131T153000
+DTSTART:20260131T153000
+DTEND:20260131T154000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — Полдник
-DESCRIPTION:Пить воду — Полдник
+SUMMARY:💧 Вода перед полдником
+DESCRIPTION:Напоминание: Вода перед полдником (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода перед полдником
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T163000-water-recurring
-DTSTAMP:20260131T163000
-DTSTART:20260131T163000
-DTEND:20260131T164000
-RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — Перед ужином
-DESCRIPTION:Пить воду — Перед ужином
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260131T180000-water-recurring
+UID:20260131T180000-water-Вода_перед_ужином
 DTSTAMP:20260131T180000
 DTSTART:20260131T180000
 DTEND:20260131T181000
 RRULE:FREQ=DAILY
-SUMMARY:💧 1 стак. воды — После ужина
-DESCRIPTION:Пить воду — После ужина
+SUMMARY:💧 Вода перед ужином
+DESCRIPTION:Напоминание: Вода перед ужином (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 1 стак. воды
+DESCRIPTION:💧 Вода перед ужином
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260131T193000-water-recurring
-DTSTAMP:20260131T193000
-DTSTART:20260131T193000
-DTEND:20260131T194000
+UID:20260131T200000-water-Вода_после_ужина
+DTSTAMP:20260131T200000
+DTSTART:20260131T200000
+DTEND:20260131T201000
 RRULE:FREQ=DAILY
-SUMMARY:💧 2 стак. воды — Дополнительно при нагрузке
-DESCRIPTION:Пить воду — Дополнительно при нагрузке
+SUMMARY:💧 Вода после ужина
+DESCRIPTION:Напоминание: Вода после ужина (1 стакан воды)
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:💧 Напоминание — 2 стак. воды
+DESCRIPTION:💧 Вода после ужина
 END:VALARM
 END:VEVENT
 END:VCALENDAR
