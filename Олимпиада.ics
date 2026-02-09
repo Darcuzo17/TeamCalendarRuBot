@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//AI_EliteHelper_bot//Olympics-2026 Perm Schedule//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Олимпиада-2026 — наши (Пермь)
+X-WR-CALNAME:Олимпиада-2026
 X-WR-TIMEZONE:Asia/Yekaterinburg
 
 BEGIN:VTIMEZONE
