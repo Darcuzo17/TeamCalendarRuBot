@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI_EliteHelper_bot//Olympics-2026 Perm Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Олимпиада-2026 — наши (Пермское время)
+X-WR-TIMEZONE:Asia/Yekaterinburg
+
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:olymp2026-0207-1700-xc-skiathlon-nepryaeva@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260207T170000
+DTEND;TZID=Asia/Yekaterinburg:20260207T180000
+SUMMARY:Лыжные гонки — скиатлон (Дарья Непряева)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 15:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0207-2000-speedskating-3000-korzhova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260207T200000
+DTEND;TZID=Asia/Yekaterinburg:20260207T210000
+SUMMARY:Конькобежный спорт — 3000 м (Ксения Коржова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 18:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0207-2100-luge-repilov-heat12@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260207T210000
+DTEND;TZID=Asia/Yekaterinburg:20260207T220000
+SUMMARY:Санный спорт — 1–2 заезды (Павел Репилов)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 19:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0208-1530-alpine-downhill-pleshkova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260208T153000
+DTEND;TZID=Asia/Yekaterinburg:20260208T163000
+SUMMARY:Горные лыжи — скоростной спуск (Юлия Плешкова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0208-1630-xc-skiathlon-korostelev@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260208T163000
+DTEND;TZID=Asia/Yekaterinburg:20260208T173000
+SUMMARY:Лыжные гонки — скиатлон (Савелий Коростелёв)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 14:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0208-2100-luge-repilov-heat34@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260208T210000
+DTEND;TZID=Asia/Yekaterinburg:20260208T220000
+SUMMARY:Санный спорт — 3–4 заезды (Павел Репилов)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 19:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0209-2100-luge-olesik-heat12@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260209T210000
+DTEND;TZID=Asia/Yekaterinburg:20260209T220000
+SUMMARY:Санный спорт — 1–2 заезды (Дарья Олесик)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 19:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-1315-xc-sprint-qual-nepryaeva@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T131500
+DTEND;TZID=Asia/Yekaterinburg:20260210T134500
+SUMMARY:Лыжные гонки — спринт, квалификация (Дарья Непряева)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 11:15 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-1355-xc-sprint-qual-korostelev@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T135500
+DTEND;TZID=Asia/Yekaterinburg:20260210T142500
+SUMMARY:Лыжные гонки — спринт, квалификация (Савелий Коростелёв)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 11:55 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-1430-shorttrack-500-qual-krylova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T143000
+DTEND;TZID=Asia/Yekaterinburg:20260210T150000
+SUMMARY:Шорт-трек — 500 м, квалификация (Алёна Крылова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 12:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-1508-shorttrack-1000-qual-posashkov@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T150800
+DTEND;TZID=Asia/Yekaterinburg:20260210T153800
+SUMMARY:Шорт-трек — 1000 м, квалификация (Иван Посашков)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:08 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-2100-luge-olesik-heat34@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T210000
+DTEND;TZID=Asia/Yekaterinburg:20260210T220000
+SUMMARY:Санный спорт — 3–4 заезды (Дарья Олесик)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 19:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0210-2230-figure-skating-sp-gumennik@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260210T223000
+DTEND;TZID=Asia/Yekaterinburg:20260210T233000
+SUMMARY:Фигурное катание — короткая программа (Пётр Гуменник)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 20:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0212-1530-alpine-superg-pleshkova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260212T153000
+DTEND;TZID=Asia/Yekaterinburg:20260212T163000
+SUMMARY:Горные лыжи — супергигант (Юлия Плешкова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0212-1700-xc-interval-nepryaeva@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260212T170000
+DTEND;TZID=Asia/Yekaterinburg:20260212T180000
+SUMMARY:Лыжные гонки — раздельный старт (Дарья Непряева)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 15:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0213-0015-shorttrack-500-qf-krylova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260213T001500
+DTEND;TZID=Asia/Yekaterinburg:20260213T010000
+SUMMARY:Шорт-трек — 500 м, 1/4 финала+ (Алёна Крылова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 22:15 МСК (12 фев). При прохождении квалификации: полуфиналы и финал.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0213-0029-shorttrack-1000-qf-posashkov@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260213T002900
+DTEND;TZID=Asia/Yekaterinburg:20260213T011500
+SUMMARY:Шорт-трек — 1000 м, 1/4 финала+ (Иван Посашков)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 22:29 МСК (12 фев). При прохождении квалификации: полуфиналы и финал.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0213-1545-xc-interval-korostelev@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260213T154500
+DTEND;TZID=Asia/Yekaterinburg:20260213T164500
+SUMMARY:Лыжные гонки — раздельный старт (Савелий Коростелёв)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:45 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0213-2300-figure-skating-fs-gumennik@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260213T230000
+DTEND;TZID=Asia/Yekaterinburg:20260214T000000
+SUMMARY:Фигурное катание — произвольная программа (Пётр Гуменник)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 21:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0215-0015-shorttrack-1500-qf-posashkov@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260215T001500
+DTEND;TZID=Asia/Yekaterinburg:20260215T010000
+SUMMARY:Шорт-трек — 1500 м, 1/4 финала+ (Иван Посашков)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 22:15 МСК (14 фев). При прохождении: полуфиналы и финал.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0215-0059-shorttrack-1000-qual-krylova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260215T005900
+DTEND;TZID=Asia/Yekaterinburg:20260215T013000
+SUMMARY:Шорт-трек — 1000 м, квалификация (Алёна Крылова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 22:59 МСК (14 фев).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0216-1400-alpine-slalom-efimov@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260216T140000
+DTEND;TZID=Asia/Yekaterinburg:20260216T150000
+SUMMARY:Горные лыжи — слалом (Семён Ефимов)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 12:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0216-1500-shorttrack-1000-qf-krylova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260216T150000
+DTEND;TZID=Asia/Yekaterinburg:20260216T154500
+SUMMARY:Шорт-трек — 1000 м, 1/4 финала+ (Алёна Крылова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:00 МСК. При прохождении: полуфиналы и финалы.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0217-2245-figure-skating-sp-petrosyan@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260217T224500
+DTEND;TZID=Asia/Yekaterinburg:20260217T234500
+SUMMARY:Фигурное катание — короткая программа (Аделия Петросян)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 20:45 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0219-1430-skimo-sprint-qual-filippov@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260219T143000
+DTEND;TZID=Asia/Yekaterinburg:20260219T153000
+SUMMARY:Ски-альпинизм — спринт, квалификация (Никита Филиппов)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 12:30 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0219-2300-figure-skating-fs-petrosyan@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260219T230000
+DTEND;TZID=Asia/Yekaterinburg:20260220T000000
+SUMMARY:Фигурное катание — произвольная программа (Аделия Петросян)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 21:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0221-1500-xc-massstart-korostelev@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260221T150000
+DTEND;TZID=Asia/Yekaterinburg:20260221T160000
+SUMMARY:Лыжные гонки — масс-старт (Савелий Коростелёв)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 13:00 МСК.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0221-1950-speedskating-massstart-semionova@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260221T195000
+DTEND;TZID=Asia/Yekaterinburg:20260221T205000
+SUMMARY:Конькобежный спорт — масс-старт (Анастасия Семёнова)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 17:50 МСК. Начало полуфиналов.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:olymp2026-0222-1400-xc-massstart-nepryaeva@hearingandbalance.net
+DTSTAMP:20260209T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260222T140000
+DTEND;TZID=Asia/Yekaterinburg:20260222T150000
+SUMMARY:Лыжные гонки — масс-старт (Дарья Непряева)
+DESCRIPTION:Пермское время (UTC+5). Исходно: 12:00 МСК.
+END:VEVENT
+
+END:VCALENDAR
